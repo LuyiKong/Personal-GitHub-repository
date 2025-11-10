@@ -1,0 +1,30 @@
+HTML Tags Used (10):
+<html> — starts the web page.
+<head> — holds the title and links to CSS.
+<body> — contains everything that shows on the page.
+<header> — shows the page title and navigation.
+<main> — main content of each page.
+<section> — groups related content together.
+<button> — clickable buttons for actions.
+<table> — shows the ingredients list in a chart.
+<tr> — each table row.
+<td> — each cell inside the table.
+
+CSS Properties Used (5):
+background-color — sets background colors.
+text-align — centers or aligns text.
+margin — adds space around elements.
+padding — adds space inside boxes.
+border-radius — makes rounded corners.
+
+JavaScript Description:
+Have you ever stood in a Ben&Jerry's ice-cream shop and wonder which flavor to order?
+Are you worried that you accidentally order a flavor that you don't like?
+This website is developed for users to figure out what ingredients are inside of each flavor.
+What's more, it helps users to know flavors they might like by actively searching with ingredients that they like.
+I used JavaScript to make the site interactive, such as searching for ice-cream flavors based on the ingredients buttons they clicked.
+And then, i used JavaScript to redirect them to a chart consisting the make-ups of the certain ice-cream flavors.
+Hope you enjoy this website and hopefully use it to determin which scoope to have next time you are inside a Ben&Jerry store!
+
+Bootstrap Description:
+I used Bootstrap link all the html pages using a Bootstrap navbar
